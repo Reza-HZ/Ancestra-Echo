@@ -39,13 +39,14 @@ Requirements:
 sequence_id@abundance
 Example:
 ```text
->clone1@25
+>seqence1@25
 ```
 means abundance = 25.
 If no abundance is provided, abundance is assumed to be 1.
 Default filename:
+```text
 sequences.fasta
-
+```
 
 ### AIRR file (`--airr`)
 This file contains AIRR-format annotation information.
@@ -54,8 +55,9 @@ Format:
 *	Must include sequence identifiers matching the FASTA headers.
 Required information includes germline alignment fields and region annotations.
 Default filename:
+```text
 vquest_airr.tsv
-
+```
 
 ## Running
 The program is executed from the command line:
