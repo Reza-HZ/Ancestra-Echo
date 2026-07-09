@@ -107,6 +107,7 @@ Generated files include:
 - `run_metadata.json`: run parameters and statistics.
 
 After execution, results are stored in:
+```
 output_directory/
 │
 ├── successful_clones/
@@ -127,7 +128,7 @@ output_directory/
         ├── repertoire.nk
         ├── repertoire_info.csv
         └── run_metadata.json
-
+```
 
 ## Example Complete Command
 
