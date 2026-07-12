@@ -13,7 +13,7 @@ Python 3.9+ is recommended.
 Install dependencies:
 
 ```bash
-pip install numpy pandas scipy biopython matplotlib ete3 networkx mplcursors
+pip install numpy pandas scipy biopython matplotlib ete3 networkx mplcursors legacy-cgi
 ```
 
 ## Input Files
